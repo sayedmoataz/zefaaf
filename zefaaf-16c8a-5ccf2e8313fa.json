@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zefaaf-16c8a",
+  "private_key_id": "5ccf2e8313fa956dd430d0239a3a7b914f71dca9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHkmGU3/B6e9V/\nqpXd+Wkz/ruUodi/58XFcfXZVS0Nnl6d/f3d9LWe2fQgkTXntFh9ZDZHSWxfDXua\nha5qdu9s4wb5tOD2mZbCF1oTvYidH+y3SS+fzFK5eL01FVFf8xUEr72PliyBNlLE\nMczrVuvApFtw5Zc1YB8xXATKabDQU7mvyYHWOQtL/e1xXxQwx9Ycu1Zy3eXX1p3o\nlNyoigMWJQTIps1IdsBiNKC/VTprHzf1iXvSuBQw5YzH1rcCszgZ8mgHbCThHT3c\nImCURIlNKLLEI9JNcUhst0fYaple2Yu6vlQrndvyfizvwuMSg9ZOfb/WdbC8qwke\nCEtYSl2pAgMBAAECggEAJPC2sMKZxeY1kNW/u1Bu9XGdgYfKscziKeer8NBIEFkD\n3P02WDbzRkXEHyIZxvt2FLGvrVbNITQC8Ml1TR4aN763HBHrwSGRSvhdE0HWL3VJ\nEO0STGMa3dtYNGLvhtHdDlrEPPd4Yetu+wNX0ajrZuNVTKqmqDnUVEPa3Cefk5PU\nIe4bAtaggaRQ/7caKlbV3MLjGaskCKSmvA5sRupsap4+gtZsQNXJQQDAwv9qE2/4\nDHLSCsRsBft5NgWcHSV0RgTDsK5n3HO1d7rddAjljLpGRihlBxV5CK1bTZF1eSnO\nSNBvGzfaSluSL5gyXk0OP7fFD/pqcoPV9bULRJRMjQKBgQDiWcPDlGlvHcE/qAR9\nh+VE33uSC7DiEr+o5XyIqAhI5soTqt64juoDwYIDdm7nOupVJNFtwjG52Twfuq7V\nzy9uEx2lyltOCqwVxB0En2Yd9Mr/Mqjhz9KcwEcL6ghcxR/1laQIH8dDlgS2kB7k\n3tBhDhAwvrRjRvPa0t/uK12TTQKBgQDhtqOpP/TMK1l/crY0xdlzomnbBlJumufF\nwH6iuJZhaEtJIwmnDjnuNZZYmTXR5BSWaYawY9d+nawiOWBe4Ijp6MIJHubXsgLE\nNndTAA/joGquE9p7KrW34k6gm0SMdAHd4iXIxPVGJ17lx7r0SedECxgRhxNxnzhO\nyWCClCKNzQKBgQCn4o6J5O1ixj4MmfFirkYGFICR7Wvv8poHitcYgRFMCSn+9nCl\nkRLPYFqveMt/ZDpklp9jenLpds/adNuyqC50xWbrDjE0rEPBDSm8wQG73FIogIm0\nmzGKpC7ODnLPZEJ1I917TR696Wprgm/3r6/9HLIzhW9EZ179ggUnoTCRzQKBgQC3\n3VmQY6L8NkvfgAhhENJEWgc0/f9kTheDhX0i/I6zpou9didEyFf0bf6dCaFH6y3C\nIRAw3AQNBk/USTzxzKJ7OLnnSB7vkfii8WNeX2ySFnkQeOe+8Vm6A0Xdmt3KNC3Z\nG4F//MF4dlXdhEgM+67CRO9ER+5U3ki2FWDivd0v+QKBgHQZ/3t2qVkxZ9n+Ot0w\nK9mFhGQH2hWX5nKDfqnIw+BcTijf8rmLdHRNHI71JqjFDl8+ckVKWUT42DAluFYa\novcntYuuKdgx9q1QyAEfVq5Qrs43iX+pWauk09mm7KvtDnaUnHU3/PnLlXGk2hbR\nCoac+WG+rvCo7CORUuYgH2Ru\n-----END PRIVATE KEY-----\n",
+  "client_email": "play-billing-api-account@zefaaf-16c8a.iam.gserviceaccount.com",
+  "client_id": "106062082157193047273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/play-billing-api-account%40zefaaf-16c8a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
